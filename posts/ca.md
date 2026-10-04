@@ -1,5 +1,5 @@
 ---
-title: "Bể thuỷ sinh và sự tĩnh tại"
+title: "Bể thuỷ sinh và sự tĩnh tại test"
 category: "CÁ"
 date: "10 Tháng 10, 2026"
 excerpt: "Nuôi cá không chỉ là một thú vui, nó là nghệ thuật tạo ra một hệ sinh thái thu nhỏ. Ngắm nhìn đàn cá bơi lội qua những tán lá thủy sinh mang lại một sự bình yên kỳ lạ."
